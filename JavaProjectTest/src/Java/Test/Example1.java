@@ -1,4 +1,4 @@
-package JavaProjectTest.Java.Test;
+package Java.Test;
 
 import java.util.Arrays;
 import java.util.Date;
@@ -6,7 +6,7 @@ import java.util.Scanner;
 import java.awt.Point;
 import java.text.NumberFormat;
 
-public class Main {
+public class Example1 {
 
     public static void main(String[] arg){
         int myAge =30;

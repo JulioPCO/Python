@@ -1,8 +1,8 @@
-package JavaProjectTest.Java.Test;
+package Java.Test;
 
 import java.util.Scanner;
 
-public class MAIN2 {
+public class Example2 {
     public static void main(String[] args){
         int x =1;
         int y =1;

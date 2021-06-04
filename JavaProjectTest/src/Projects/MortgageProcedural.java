@@ -1,9 +1,9 @@
-package JavaProjectTest.ExercisesJava;
+package Projects;
 
 import java.text.NumberFormat;
 import java.util.Scanner;
 
-public class MortgageEx{
+public class MortgageProcedural{
 
     final static byte months = 12;
     final static byte percent = 100;
